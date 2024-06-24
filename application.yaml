@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Savegirlchild/argocd-app.git
+    repoURL: https://github.com/manojchowgany/argocd.git
     targetRevision: HEAD
     path: demo/overlays/dev
   destination: 
